@@ -20,7 +20,7 @@ Edit - Edit an existing Employee details.
 # Installation:
 
 Pretty simple the installation part, 
-1) Install Visual studio 
+1) Install Visual studio 2017
 2) Install .NET Core SDK 2.2
 3) Install the Bootstrap
 4) Install JQuery
